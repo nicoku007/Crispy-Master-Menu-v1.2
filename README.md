@@ -1,4 +1,4 @@
-# Crispy-Master-Menu for Crispy Doom (Iwads, custom wads, Master Levels, Maximum Doom). Crispy-Master-Menu now on Idgames!! https://www.doomworld.com/idgames/utils/frontends/crispymenu  
+# Crispy-Master-Menu V1.3 for Crispy Doom (Iwads, custom wads, Master Levels, Maximum Doom).
 
 
 ![crispy v1.3 1.jpg](https://github.com/nicoku007/Crispy-Master-Menu-v1.2/blob/main/crispy%20v1.3%201.jpg?raw=true )
