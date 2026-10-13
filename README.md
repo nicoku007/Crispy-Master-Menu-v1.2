@@ -1,12 +1,9 @@
 # Crispy-Master-Menu for Crispy Doom (Iwads, custom wads, Master Levels, Maximum Doom). Crispy-Master-Menu now on Idgames!! https://www.doomworld.com/idgames/utils/frontends/crispymenu  
 
 
-![crispy 1.png](https://github.com/nicoku007/Crispy-Master-Menu-v1.1/blob/main/crispy%201.2/crispy%201.png?raw=true )
-![crispy 2.png](https://github.com/nicoku007/Crispy-Master-Menu-v1.1/blob/main/crispy%201.2/crispy%202.png?raw=true )
-![crispy 3.png](https://github.com/nicoku007/Crispy-Master-Menu-v1.1/blob/main/crispy%201.2/crispy%203.png?raw=true )
-![crispy 4.png](https://github.com/nicoku007/Crispy-Master-Menu-v1.1/blob/main/crispy%201.2/crispy%204.png?raw=true )
-![crispy 5.png](https://github.com/nicoku007/Crispy-Master-Menu-v1.1/blob/main/crispy%201.2/crispy%205.png?raw=true )
-![crispy 6.png](https://github.com/nicoku007/Crispy-Master-Menu-v1.1/blob/main/crispy%201.2/crispy%206.png?raw=true )
+![crispy v1.3 1.jpg](https://github.com/nicoku007/Crispy-Master-Menu-v1.2/blob/main/crispy%20v1.3%201.jpg?raw=true )
+![crispy v1.3 2.jpg](https://github.com/nicoku007/Crispy-Master-Menu-v1.2/blob/main/crispy%20v1.3%202.jpg?raw=true )
+
 
 Description: Crispy-Master-Menu is derived from my other project called "Choco-Master-Menu". It features the same functions as Choco-Master-Menu: a menu for Master Levels, Maximum Doom, Iwads, custom wads, Multiplayer, recording demos, viewing the master server, local server, etc.
                        
