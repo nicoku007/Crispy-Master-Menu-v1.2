@@ -2,12 +2,15 @@
 
 
 ![crispy v1.3 1.jpg](https://github.com/nicoku007/Crispy-Master-Menu-v1.2/blob/main/crispy%20v1.3%201.jpg?raw=true )
-![crispy v1.3 2.jpg](https://github.com/nicoku007/Crispy-Master-Menu-v1.2/blob/main/crispy%20v1.3%202.jpg?raw=true )
+![crispy v1.3 2 new.jpg](https://github.com/nicoku007/Crispy-Master-Menu-v1.3/blob/main/crispy%20v1.3%202%20new.jpg?raw=true )
 
 
 Description: Crispy-Master-Menu is derived from my other project called "Choco-Master-Menu". It features the same functions as Choco-Master-Menu: a menu for Master Levels, Maximum Doom, Iwads, custom wads, Multiplayer, recording demos, viewing the master server, local server, etc.
                        
 Launcher features:
+
+For full screen mode you can press F1 and to return the screen to 
+normal press Escape.
 
 Iwads: the possibility of choosing the Iwad to play without the need to enter crispy-doom.setup to configure a specific Iwad or to have 4 folders with their respective Iwad.
 
